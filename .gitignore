@@ -31,3 +31,5 @@ build/
 
 ### VS Code ###
 .vscode/
+/src/main/java/pro/sky/skyprospringdemo/HelloController.java
+/src/main/java/pro/sky/skyprospringdemo/HelloServiceImpl.java
